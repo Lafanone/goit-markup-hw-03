@@ -56,6 +56,7 @@ align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
 }
 
 .header-logo{
@@ -68,7 +69,6 @@ align-items: center;
 }
 
 .footer-logo{
-    display: inline-block; 
     margin-bottom: 16px;
 }
 
