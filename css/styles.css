@@ -70,8 +70,6 @@ align-items: center;
 .footer-logo .logo-part {
     color: #4d5ae5;
     color: #f4f4fd;
-    margin-bottom: 16px;
-    display: inline-block;
 }
 
 .nav-link{
@@ -318,6 +316,7 @@ background: #404bbf;
 
 .footer-logo{
     margin-bottom: 16px;
+    display: inline-block;
 }
 
 .footer-description{
