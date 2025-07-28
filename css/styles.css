@@ -68,7 +68,6 @@ align-items: center;
 }
 
 .footer-logo .logo-part {
-    color: #4d5ae5;
     color: #f4f4fd;
 }
 
@@ -314,9 +313,9 @@ background: #404bbf;
     align-items: flex-start;
 }
 
-.footer-logo .logo-part{
+.footer-logo{
+    display: inline-block;
     margin-bottom: 16px;
-    display:inline-block;
 }
 
 .footer-description{
