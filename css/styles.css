@@ -68,8 +68,8 @@ align-items: center;
 }
 
 .footer-logo{
+    display:inline-block;  
     margin-bottom: 16px;
-    display:inline-block;
 }
 
 .footer-logo .logo-part {
