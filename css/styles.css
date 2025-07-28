@@ -65,13 +65,11 @@ align-items: center;
 
 .header-logo .logo-part{
     color: #2e2f42;
-    display:inline-block;
 }
 
 .footer-logo .logo-part {
     color: #4d5ae5;
     color: #f4f4fd;
-    margin-bottom: 16px;
 }
 
 .nav-link{
@@ -316,7 +314,7 @@ background: #404bbf;
     align-items: flex-start;
 }
 
-.footer-logo{
+.footer-logo .logo-part{
     margin-bottom: 16px;
     display:inline-block;
 }
