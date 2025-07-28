@@ -65,6 +65,7 @@ align-items: center;
 
 .header-logo .logo-part{
     color: #2e2f42;
+    display:inline-block;
 }
 
 .footer-logo .logo-part {
@@ -316,6 +317,7 @@ background: #404bbf;
 }
 
 .footer-logo{
+    margin-bottom: 16px;
     display:inline-block;
 }
 
