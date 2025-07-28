@@ -67,15 +67,6 @@ align-items: center;
     color: #2e2f42;
 }
 
-.logo .footer-logo{
-    margin-bottom: 16px;
-    display: inline-block;
-}
-
-.footer-logo .logo-part {
-    color: #f4f4fd;
-}
-
 .nav-link{
         display: block;
         padding: 24px 0;
@@ -316,6 +307,15 @@ background: #404bbf;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+}
+
+.footer-logo{
+    margin-bottom: 16px;
+    display: inline-block;
+}
+
+.footer-logo .logo-part {
+    color: #f4f4fd;
 }
 
 .footer-description{
