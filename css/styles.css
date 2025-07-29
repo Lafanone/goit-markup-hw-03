@@ -309,12 +309,12 @@ background: #404bbf;
     align-items: flex-start;
 }
 
-.site-logo--footer {
+.footer-logo {
     display: inline-block;
     margin-bottom: 16px;
 }
 
-.site-logo__part {
+.footer-logo .logo-part {
     color: #f4f4fd;
 }
 
