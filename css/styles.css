@@ -297,12 +297,12 @@ background: #404bbf;
    
 }
 
-.page-footer{
+.footer {
     background: #2e2f42;
     padding: 100px 0;
 }
 
-.footer-container{
+.footer__container {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -314,15 +314,15 @@ background: #404bbf;
     margin-bottom: 16px;
 }
 
-.footer-logo .logo-part {
+.site-logo__part {
     color: #f4f4fd;
 }
 
-.footer-description{
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #f4f4fd;
-        max-width: 264px;
+.footer__description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+    max-width: 264px;
 }
