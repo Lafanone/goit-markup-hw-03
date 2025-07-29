@@ -184,7 +184,7 @@ background: #404bbf;
 }
 
 .features-item{
-    width: calc((100%-72px)/4);
+    width: calc((100% - 72px)/4);
 }
 
 .features-title{
@@ -252,7 +252,6 @@ background: #404bbf;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    padding-top: 8px;
     }
     
 .portfolio {
