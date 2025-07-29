@@ -67,6 +67,15 @@ align-items: center;
     color: #2e2f42;
 }
 
+.footer-logo{
+    display:inline-block;  
+    margin-bottom: 16px;
+}
+
+.footer-logo .logo-part {
+    color: #f4f4fd;
+}
+
 .nav-link{
         display: block;
         padding: 24px 0;
@@ -304,15 +313,9 @@ background: #404bbf;
 
 .footer-container{
     margin: 0 auto;
-}
-
-.site-logo--footer {
-    display: inline-block;
-    margin-bottom: 16px;
-}
-
-.site-logo__part {
-    color: #f4f4fd;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .footer-description{
